@@ -8,3 +8,6 @@ Repositório com exercícios de lógica em Python.
 - try / except
 - listas
 - lógica básica
+
+## Observação
+Este repositório contém exercícios simples feitos durante meus estudos iniciais em Python.
