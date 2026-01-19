@@ -1,35 +1,36 @@
-##👋 Olá, eu sou Raiff
-#🧠 Sobre mim
+# 👋 Olá, eu sou Raiff
 
-Sou estudante de programação focado em Python, atualmente estudando lógica de programação, estruturas básicas, funções e pequenos sistemas em terminal.
+## 🧠 Sobre mim
 
-Gosto de aprender resolvendo problemas reais e criando programas simples, bem organizados e funcionais.
+- ### Sou estudante de programação focado em Python, atualmente estudando lógica de programação, estruturas básicas, funções e pequenos sistemas em terminal.
 
-##🐍 O que eu sei em Python
+- ### Gosto de aprender resolvendo problemas reais e criando programas simples, bem organizados e funcionais.
 
-Lógica de programação
+# 🐍 O que eu sei em Python
 
-Estruturas condicionais (if, else)
+- ### Lógica de programação
 
-Laços de repetição (while, for)
+- ### Estruturas condicionais (if, else)
 
-Listas
+- ### Laços de repetição (while, for)
 
-Funções
+- ### Listas
 
-Tratamento de erros (try / except)
+- ### Funções
 
-Programas em modo texto (terminal)
+- ### Tratamento de erros (try / except)
 
-##📂 Projetos
+- ### Programas em modo texto (terminal)
 
-Aqui estão alguns exemplos do que você vai encontrar nos meus repositórios:
+# 📂 Projetos
 
-#📊 Leitor de Números
-Programa que lê números até o usuário digitar 0 e exibe estatísticas como soma, média, maior, menor, pares e ímpares.
+- ### Aqui estão alguns exemplos do que você vai encontrar nos meus repositórios:
 
-#📋 Menu Interativo em Python
-Sistema simples com menu usando while e if, chamando funções conforme a opção escolhida.
+## 📊 Leitor de Números
+- ### Programa que lê números até o usuário digitar 0 e exibe estatísticas como soma, média, maior, menor, pares e ímpares.
 
-#🧮 Exercícios de Lógica
-Coleção de exercícios resolvidos para treinar lógica de programação em Python.
+## 📋 Menu Interativo em Python
+- ### Sistema simples com menu usando while e if, chamando funções conforme a opção escolhida.
+
+## 🧮 Exercícios de Lógica
+- ### Coleção de exercícios resolvidos para treinar lógica de programação em Python.
