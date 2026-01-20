@@ -48,7 +48,7 @@ def leitor_de_numeros():
             maior = numero
         if menor is None or numero < menor:
             menor = numero
-    return lista, qtd, soma, media, maior, menor, cont_par, cont_imp
+
 while True:
     if tentativas == 0:
         print("limite excedido")
@@ -77,3 +77,4 @@ while True:
     else:
         print("obrigado por usar o programa")
         break
+
